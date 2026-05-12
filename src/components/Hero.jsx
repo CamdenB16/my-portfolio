@@ -119,7 +119,7 @@ export default function Hero() {
 
       {/* Resume Button - Float up on hover */}
       <motion.a
-        href="/Camden Beightler - Resume (2026) (LinkedIn).pdf"
+        href="/Camden Beightler - Resume (2025).pdf"
         download="Camden-Beightler-Resume.pdf"
         whileHover={{
           y: -6,
